@@ -1,4 +1,4 @@
-# Git 101 :snowman: :smiley:
+# Git 101 :snowman: 
 
 To day we learn git yayy :smile:
 So funny :boom:
